@@ -1,0 +1,1 @@
+# Khai báo hàm kernel

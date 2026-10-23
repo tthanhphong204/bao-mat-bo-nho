@@ -1,0 +1,1 @@
+# Quản lý process, stack canary

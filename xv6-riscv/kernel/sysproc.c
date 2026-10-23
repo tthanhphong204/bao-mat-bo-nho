@@ -1,0 +1,1 @@
+# System call liên quan bộ nhớ

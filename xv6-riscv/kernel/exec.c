@@ -1,0 +1,1 @@
+# ASLR khi nạp chương trình
